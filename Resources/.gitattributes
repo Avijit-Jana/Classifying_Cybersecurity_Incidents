@@ -1,3 +1,0 @@
-best_model.pkl filter=lfs diff=lfs merge=lfs -text
-top_1_value_dict.pkl filter=lfs diff=lfs merge=lfs -text
-top_3_values_dict.pkl filter=lfs diff=lfs merge=lfs -text
